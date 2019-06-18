@@ -1,7 +1,7 @@
 # Foresight Crash
 An application that backs up the Monster Hunter world steam save file.
 
-Getting Started:
+# Getting Started:
 1.  Download the zip file and extract the contents to a new directory.
 
 2.  Get the path to your Steam user account. (E.G.: C:\Program File(x86)\Steam\userdata\1111111) - NOTE: 111111 is just an example user account.
