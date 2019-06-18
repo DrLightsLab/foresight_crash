@@ -1,10 +1,11 @@
 # Foresight Crash
 An application that backs up the Monster Hunter world steam save file.
 
-# Getting Started:
-1.  Download the zip file and extract the contents to a new directory.
+# Parry This You Filthy Casual!:
+1.  Download the zip file and extract the contents to a new directory. (E.G.: C:\Program Files (x86)\Foresight Crash)
 
-2.  Get the path to your Steam user account. (E.G.: C:\Program File(x86)\Steam\userdata\1111111) - NOTE: 111111 is just an example user account.
+2.  Get the path to your Steam user account. (E.G.: C:\Program File(x86)\Steam\userdata\1111111)
+    - NOTE: 111111 is just an example user account.
 
     2a.  Make sure that the 582010 directory is in that user account directory. (E.G.: C:\Program File(x86)\Steam\userdata\1111111\582010)
         - NOTE:  582010 is the default monster hunter world steam save file directory (per Capcom Support: https://steamcommunity.com/app/582010/discussions/0/1745594817430281693/). 
@@ -32,4 +33,4 @@ An application that backs up the Monster Hunter world steam save file.
     check the Last Modified Date of the SAVADATA1000 file in the backup directory, or check the backup_log.txt file in the 
     Foresight Crash directory.
 
-Parry this you filthy casual!
+Thanks
