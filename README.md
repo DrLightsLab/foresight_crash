@@ -1,5 +1,5 @@
 # Foresight Crash
-An application that backs up the Monster Hunter world steam save file.
+An application that backs up the Monster Hunter World Steam save file.
 
 # Parry This You Filthy Casual!
 1.  Download the zip file and extract the contents to a new directory. (E.G.: C:\Program Files (x86)\Foresight Crash)
